@@ -8,5 +8,6 @@ Cá chình là tên gọi chung của nhiều loài thuộc họ Anguillidae, s�
 
 Tại Việt Nam, cá chình được phân bố chủ yếu ở các sông lớn và vùng trung du. Một số loài có giá trị kinh tế cao như: cá chình suối, cá chình hoa, cá chình mun, ... Cá chình nổi tiếng với thịt dai, béo, có hương vị đặc trưng và thường xem là đặc sản ở nhiều vùng.
 
-![Cá chình hoa](assets/fish/cachinhhoa.jpg)
+![Cá chình hoa](../../assets/fish/cachinhhoa.jpg)
+
 
