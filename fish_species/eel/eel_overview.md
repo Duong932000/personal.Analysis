@@ -11,3 +11,44 @@ Tại Việt Nam, cá chình được phân bố chủ yếu ở các sông lớ
 ![Cá chình hoa](../../assets/fish/cachinhhoa.jpg)
 
 
+## Giá trị dinh dưỡng của cá chình
+
+Cá chình là thực phẩm giàu dinh dưỡng và năng lượng. Theo số liệu, trong 100g thịt cá có chứa khoảng:
+
+- 18 - 20g protein
+
+- 10 - 12g chất béo tốt
+
+- Vitamin A, D, B
+
+- Canxi, sắt, kẽm, ...
+
+
+## Tầm quan trọng trong nuôi công nghệ cao
+
+Cá chình là đối tượng phù hợp cho môi trường nuôi công nghệ cao vì:
+
+- Có thể nuôi mật độ cao nếu môi trường ổn định
+
+- Chất lượng nước ảnh hưởng trực tiếp đến tăng trưởng
+
+- Hành vi ăn có thể tối ưu bằng AI‌ ‌‌/ computer vision
+
+- Việc giám sát liên tục giúp giảm rủi ro vận hành
+
+
+## Các thách thức chính
+
+### Quản lý chất lượng nước
+
+Cá chình nhạy cảm với:
+
+- Amoniac
+
+- Nitrite
+
+- Thiếu oxy
+
+- Biến động nhiệt độ
+
+- Dư lượng thức ăn
