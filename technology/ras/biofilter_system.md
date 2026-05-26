@@ -12,7 +12,7 @@ Dưới đây là chi tiết công thức tính toán, cấu tạo cho đến gi
 
 Giả định cá ở giai đoạn đạt sinh khối đỉnh điểm trước khi thu họach, tổng lượng thức ăn cho 20 bể là 300kg /ngày
 
-- Step 1: tính lượng khí dodocj NH3 sinh ra hàng ngày
+- Step 1: tính lượng khí độc NH3 sinh ra hàng ngày
 
 Theo nghiên cứu, 1kg thức ăn đạm cao (45%) sẽ giải phóng khoảng 35g đạm Amoniac (TAN) vào nước.
 
@@ -25,7 +25,6 @@ Vi khuẩn Nitrat hóa trong hệ thôngs nuôi cá chình hoa xứ nóng tiêu 
 Tổng diện tích bề mặt vi khuẩn cần có để bám dính:
 
 10500g TAN chia cho 0.45g/m2/ngày = 23333 m2 diện tích ‌m2
-
 
 - Step 3: quy đổi ra thể tích hạt lọc sinh học Kaldnes (K3)
 
