@@ -20,7 +20,7 @@ Theo nghiên cứu, 1kg thức ăn đạm cao (45%) sẽ giải phóng khoảng 
 
 - Step 2: tính diện tích bề mặt giá thể cần thiết (BSA)
 
-Vi khuẩn Nitrat hóa trong hệ thôngs nuôi cá chình hoa xứ nóng tiêu thụ trung bình khoảng 0.45g TAN trên 1m2 diện tích bề mặt giá thể trong ngày 
+Vi khuẩn Nitrat hóa trong hệ thống nuôi cá chình hoa xứ nóng tiêu thụ trung bình khoảng 0.45g TAN trên 1m2 diện tích bề mặt giá thể trong ngày 
 
 Tổng diện tích bề mặt vi khuẩn cần có để bám dính:
 
@@ -43,4 +43,3 @@ Hạt Kaldnes K3 (hoặc tương đương) có diện tích bề mặt phân h�
 - Giá thể động (hạt lọc Kaldnes): tổng 50m3 cho toàn trại, chia ra 4 bể riêng
 
 - Hệ thống sủi khí và đĩa phân phối khí
-

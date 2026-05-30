@@ -46,12 +46,12 @@ Công thức: M = (FCR - 1).W_feed.K_solid
 
 - W_feed: tổng khối lượng thức ăn cho cá mỗi ngày (kg)
 
-- K_solid: phần trăng thức ăn chuyển hóa thành chất thải rắn (khoảng 25 - 30%).
+- K_solid: phần trăm thức ăn chuyển hóa thành chất thải rắn (khoảng 25 - 30%).
 
 
 ## Ví dụ cho 20 bể D5 - H1.2
 
-V 1 bể = 2.5 x 2.5 x 3.14 x 1.2 = 24
+V 1 bể = 2.5 x 2.5 x 3.14 x 1.2 = 24m3
 
 --> V 20 bể = 24m3 x 20 = 470m3
 
@@ -62,4 +62,3 @@ Chọn lọc 2 lần 1 ngày --> n = 2
 --> kết luận công suất cần mua: có công suất từ 940 - 1000m3/h
 
 Thường nên chia ra nhiều lọc trống, ví dụ 20 bể thì sẽ cần 4 lọc trống (mỗi lọc 200m3/h)
-
