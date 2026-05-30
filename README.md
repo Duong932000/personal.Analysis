@@ -6,12 +6,15 @@
 Repository này dùng để nghiên cứu, thiết kế, phân tích và triển khai mô hình nuôi cá công nghệ cao (cá chình, cá lóc, cá rô phi, cá chẽm, ...) dựa trên:
 
 - RAS (Recirculating Aquaculture System)
+
 ![RAS](assets/ras/ras.png)
 
 - Computer Vision (Fish monitoring & tracking)
+
 ![Computer vision](assets/computer_vision/fish_detection.png)
 
 - IoT‌ ‌/ Automation (Sensors system)
+
 ![IoT](assets/IoT/iot_system.png)
 
 
