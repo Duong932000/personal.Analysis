@@ -34,5 +34,3 @@ Cụ thể, hệ thống RAS hoạt động dựa theo các bước sau:
 - Tăng năng suất và hiệu quả nuôi trồng: Thủy sản được nuôi trong môi trường nước sạch, ít dịch bệnh, với tỉ lệ sống cao và tốc độ tăng trưởng nhanh, dẫn đến năng suất và hiệu quả nuôi cao hơn so với phương pháp truyền thống.
 
 - Bền vững trong nuôi trồng thủy sản: Thúc đẩy phát triển ngành thủy sản.
-
-
