@@ -1,7 +1,7 @@
 # Smart Fish Farming Project Analysis
 
 
-# Introduction
+## Introduction
 
 Repository này dùng để nghiên cứu, thiết kế, phân tích và triển khai mô hình nuôi cá công nghệ cao (cá chình, cá lóc, cá rô phi, cá chẽm, ...) dựa trên:
 
